@@ -82,6 +82,10 @@
             justify-items: center;
             color: #ffffff;
         }
+        .sobre2 ul li {
+            text-align: justify;
+            color: #ffffff;
+        }
 
         .card {
             margin: 1%;
