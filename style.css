@@ -76,8 +76,8 @@
             color: #ffffff;
         }
         .sobre2 {
-            margin: 5%;
-            text-align: center;
+            margin: 3%;
+            text-align: justify;
             justify-content: center;
             justify-items: center;
             color: #ffffff;
@@ -95,4 +95,14 @@
 
         .col-10-5 {
             width: 85.5%;
+        }
+
+        .card-img-top {
+            margin-top: 10px;
+            border-radius: 100px;
+            width: 100%;
+        }
+
+        .logo {
+            border-radius: 10px;
         }
